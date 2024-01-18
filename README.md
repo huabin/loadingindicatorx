@@ -4,6 +4,9 @@ A Loading Indicator for React
 
 ### Demo
 
+https://github.com/huabin/loadingindicatorx/assets/535675/f7ebbb69-433c-4439-ad08-4279bbdf86a4
+
+You can also check the demo folder.
 
 ### Usage
 
