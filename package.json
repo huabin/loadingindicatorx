@@ -1,6 +1,6 @@
 {
   "name": "loadingindicatorx",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A Loading Indicator for React",
   "main": "index.js",
   "scripts": {
@@ -10,18 +10,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/huabin/loadingindicator.git"
+    "url": "git+https://github.com/huabin/loadingindicatorx.git"
   },
   "keywords": [
     "react",
-    "loadingindicator"
+    "loadingindicator",
+    "loadingindicatorx"
   ],
   "author": "Bin Hua",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/huabin/loadingindicator/issues"
+    "url": "https://github.com/huabin/loadingindicatorx/issues"
   },
-  "homepage": "https://github.com/huabin/loadingindicator#readme",
+  "homepage": "https://github.com/huabin/loadingindicatorx",
   "devDependencies": {
     "@babel/core": "^7.23.7",
     "@babel/preset-env": "^7.23.8",

@@ -12,14 +12,6 @@
 .loading-overlay.visible {
   display: flex;
 }
-.loading-spinner {
-  border: 3px dashed #37474F;
-  border-radius: 50%;
-  border-top: 1px dashed transparent;
-  width: 40px;
-  height: 40px;
-  animation: spin 1s linear infinite;
-}
 @keyframes spin {
   0% {
     transform: rotate(0deg);
